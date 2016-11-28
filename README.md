@@ -1,6 +1,6 @@
 # Rancher Catalog v1.1
 
-This catalog is a snapshot of templates available for Rancher v1.1.x. As Rancher v1.2 introduces concepts that are not available in older Rancher releases, you can point to this repository in your Rancher v1.1.x setups to prevent errors for showing up.
+This catalog is a snapshot of templates available for Rancher v1.1.x. As Rancher v1.2 introduces concepts that are not available in older Rancher releases, you can point to this repository in your Rancher v1.1.x setups to prevent logs of unmarshalling errors related to these new concepts in our catalog service.
 
 **If you use this catalog, you will need to update your catalog to the official [Rancher Catalog](https://github.com/rancher/rancher-catalog) BEFORE upgrading to v1.2.0.**
 
