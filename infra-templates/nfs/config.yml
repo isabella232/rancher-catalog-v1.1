@@ -1,5 +1,0 @@
-name: Rancher NFS
-description: |
-  Docker volume plugin for NFS
-version: 0.2.0
-category: Storage
